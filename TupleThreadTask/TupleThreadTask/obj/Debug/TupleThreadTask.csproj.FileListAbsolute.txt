@@ -1,0 +1,6 @@
+E:\P315\TupleThreadTask\TupleThreadTask\bin\Debug\TupleThreadTask.exe.config
+E:\P315\TupleThreadTask\TupleThreadTask\bin\Debug\TupleThreadTask.exe
+E:\P315\TupleThreadTask\TupleThreadTask\bin\Debug\TupleThreadTask.pdb
+E:\P315\TupleThreadTask\TupleThreadTask\obj\Debug\TupleThreadTask.csprojAssemblyReference.cache
+E:\P315\TupleThreadTask\TupleThreadTask\obj\Debug\TupleThreadTask.exe
+E:\P315\TupleThreadTask\TupleThreadTask\obj\Debug\TupleThreadTask.pdb
